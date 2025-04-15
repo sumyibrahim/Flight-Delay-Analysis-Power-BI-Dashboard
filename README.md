@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard analyzing U.S. flight delay data. The dashboard provides insights into delay trends, causes, and airline performance.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview]Airline Delay Analysis-1.png
 
 ## 📌 Features
 
